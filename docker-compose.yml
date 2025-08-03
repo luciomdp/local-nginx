@@ -1,0 +1,20 @@
+services:
+    local-nginx:
+        container_name: local-nginx
+        build:
+          context: .
+          dockerfile: Dockerfile
+        volumes:
+            - ./nginx_config/nginx.conf:/etc/nginx/nginx.conf
+            - ./nginx_config/tcpconf.d:/etc/nginx/tcpconf.d
+            - ./sslkeys/:/sslkeys
+            - ./logs:/var/log/nginx
+        ports:
+            - "80:80"
+            - "443:443"
+        networks:
+            - Publica
+
+networks:
+    Publica:
+        external: true
