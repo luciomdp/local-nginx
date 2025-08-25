@@ -4,3 +4,23 @@
 2025/08/03 21:34:27 [emerg] 1#1: invalid number of arguments in "http2" directive in /etc/nginx/tcpconf.d/default.conf:6
 2025/08/03 21:35:25 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/tcpconf.d/default.conf:5
 2025/08/03 21:56:49 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/tcpconf.d/default.conf:5
+2025/08/03 22:12:22 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/tcpconf.d/default.conf:5
+2025/08/03 22:16:53 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/tcpconf.d/default.conf:5
+2025/08/03 22:16:53 [emerg] 1#1: host not found in upstream "clothing-directory" in /etc/nginx/tcpconf.d/default.conf:27
+2025/08/03 22:26:19 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/tcpconf.d/default.conf:5
+2025/08/25 19:05:13 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/tcpconf.d/default.conf:5
+2025/08/25 19:05:13 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/tcpconf.d/default.conf:34
+2025/08/25 19:05:13 [emerg] 1#1: host not found in upstream "clothing-directory" in /etc/nginx/tcpconf.d/default.conf:27
+2025/08/25 19:06:30 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/tcpconf.d/default.conf:5
+2025/08/25 19:06:30 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/tcpconf.d/default.conf:34
+2025/08/25 19:06:30 [emerg] 1#1: host not found in upstream "clothing-directory" in /etc/nginx/tcpconf.d/default.conf:27
+2025/08/25 19:07:12 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/tcpconf.d/default.conf:5
+2025/08/25 19:07:12 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/tcpconf.d/default.conf:34
+2025/08/25 19:11:16 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/tcpconf.d/default.conf:6
+2025/08/25 19:11:16 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/tcpconf.d/default.conf:35
+2025/08/25 19:11:16 [emerg] 1#1: host not found in upstream "clothing-directory" in /etc/nginx/tcpconf.d/default.conf:28
+2025/08/25 19:11:29 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/tcpconf.d/default.conf:6
+2025/08/25 19:11:29 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/tcpconf.d/default.conf:35
+2025/08/25 19:11:29 [emerg] 1#1: host not found in upstream "clothing-directory" in /etc/nginx/tcpconf.d/default.conf:28
+2025/08/25 19:12:21 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/tcpconf.d/default.conf:6
+2025/08/25 19:12:21 [warn] 1#1: the "listen ... http2" directive is deprecated, use the "http2" directive instead in /etc/nginx/tcpconf.d/default.conf:35
